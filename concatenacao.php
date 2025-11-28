@@ -1,6 +1,6 @@
 <?php
-$primeiroNome = "Gisbert";
-$sobrenome = "Werninghaus";
+$primeiroNome = "Rhuan";
+$sobrenome = "Pablo";
 $nomeCompleto = $primeiroNome . " " . $sobrenome;
 echo "Nome completo: " . $nomeCompleto;
 ?>
